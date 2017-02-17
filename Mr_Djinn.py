@@ -179,5 +179,5 @@ async def ban(mem: discord.Member):
 
 
 
-client.run("Mjc5MjYzNDk3NTYzNDA2MzM3.C4Thrw.yERxkZEmPi1UoWeHRmP1hBxgMeM")
+client.run("TOKEN HERE")
 
