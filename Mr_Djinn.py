@@ -1,4 +1,4 @@
-from cleverbot import Cleverbot
+
 import discord
 import random
 import math
